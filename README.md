@@ -10,7 +10,7 @@ Follow these steps to build and run the project:
 
 ### Clone the Repository:
 ```bash
-git clone <https://github.com/AniDashyan/heap_fragmentation
+git clone https://github.com/AniDashyan/heap_fragmentation
 cd heap_fragmentation
 ```
 
